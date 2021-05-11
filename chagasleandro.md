@@ -1,4 +1,4 @@
-# -README
+# 
 <h1>👋 Hello World !</h1> 
 <h2>👨 I'm Leandro Chagas from</h2> 
 <p>I'm a software engineer. I code in C and VHDL/Verilog languages for Digital Tv (ISDB and ATSC) equipment. I am an enthusiast for learning new technologies. Losing hours of sleep while programming is a real hobby.</p>
