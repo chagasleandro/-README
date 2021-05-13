@@ -24,17 +24,17 @@
 </p>
 
 <p align="center">
-<a href="https://codepen.io/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://twitter.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://codesandbox.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://fb.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://instagram.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://codepen.io/leandrochagas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="leandrochagas" height="20" width="20" /></a>
+<a href="https://twitter.com/leandrochagas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="leandrochagas" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/leandrochagas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="leandrochagas" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/leandrochagas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="leandrochagas" height="20" width="20" /></a>
+<a href="https://codesandbox.com/leandrochagas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="leandrochagas" height="20" width="20" /></a>
+<a href="https://fb.com/leandrochagas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="leandrochagas" height="20" width="20" /></a>
+<a href="https://instagram.com/leandrochagas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="leandrochagas" height="20" width="20" /></a>
 </p>
 
 <!--
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
