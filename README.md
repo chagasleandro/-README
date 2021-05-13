@@ -1,11 +1,11 @@
 # -README
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Leandro Chagas</h1>
-<h3 align="center">A Web Developer Instructor focused on helping people start programming</h3>
+<h3 align="center">A Web Developer programming</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
 - 🔭 I’m currently working on [Hitachi Kokusai Linear]
 
-- 👨‍💻 All of my projects are available at(https://github.com/chagasleandro)
+- 👨‍💻 All of my projects are available at (https://github.com/chagasleandro)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Angular, SQL** 
 
