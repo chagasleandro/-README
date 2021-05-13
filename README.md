@@ -1,17 +1,15 @@
 # -README
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mayk Brito</h1>
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Leandro Chagas</h1>
 <h3 align="center">A Web Developer Instructor focused on helping people start programming</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
-- 🔭 I’m currently working on [Rocketseat](https://github.com/Rocketseat)
+- 🔭 I’m currently working on [Hitachi Kokusai Linear]
 
-- 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br)
+- 👨‍💻 All of my projects are available at(https://github.com/chagasleandro)
 
-- ▶️ I regulary post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+- 💬 Ask me about **JavaScript, HTML, CSS, Angular, SQL** 
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL**
-
-- 📫 How to reach me **maykbrito@gmail.com**
+- 📫 How to reach me **leandrosrs2012@gmail.com**
 
 - ⚡ Fun fact **Oneye 😜**
 
